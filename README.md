@@ -35,7 +35,7 @@ This overall scarcity of ornament gives Compact Night a someway sober or austere
 
 ### Installation.
 
-1. Download the zip file of the latest release from [GitHub](https://github.com/mcesar-rlacruz/typora-compact/releases/latest), extract it to get folder <i>compact-night</i> and file <i>compact-night.css</i>
+1. Download the zip file of the latest release from [GitHub](https://github.com/mcesar-rlacruz/typora-compact-night/releases/latest), extract it to get folder <i>compact-night</i> and file <i>compact-night.css</i>
 2. Open Typora, in <i>Preferences…</i>, click on <i>Apperance</i>, then on <i>Open Theme Folder</i>
 3. Put <i>compact-night</i> folder and <i>compact-night.css</i> file into the open folder
 4. Select the Compact Night theme from the <i>Themes</i> menu
